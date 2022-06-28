@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="ガンドリング", augments={'Path: C',}},
+    sub="トゥワシュトラ",
+    ammo="ストンチタスラム+1",
+    head="マリグナスシャポー",
+    body="マリグナスタバード",
+    hands="マリグナスグローブ",
+    legs="マリグナスタイツ",
+    feet="ジュートブーツ+1",
+    neck="ロリケートトルク+1",
+    waist="霊亀腰帯",
+    left_ear="シェリダピアス",
+    right_ear="デディションピアス",
+    left_ring="守りの指輪",
+    right_ring="シーリチリング+1",
+    back="月明の羽衣",
+}
